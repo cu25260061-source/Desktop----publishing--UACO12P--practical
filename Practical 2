@@ -1,0 +1,37 @@
+# Practical 02 – Photo Editing and Retouching
+
+## Student Details
+
+* **Name:** AANAYA SHARMA 
+* **Roll Number:** CU25260251
+* **Course:** BCA
+* **Semester:** 3
+
+## Objective
+
+To learn photo editing techniques, including cropping, brightness and contrast adjustment, colour correction, and removal of small unwanted spots.
+
+## Tools Used
+
+* Crop Tool
+* Move Tool
+* Spot Healing Brush Tool
+* Brush Tool
+* Brightness/Contrast Adjustment
+* Color Balance Adjustment
+* Layers Panel
+
+## Steps
+
+1. Open Adobe Photoshop.
+2. Open a photograph using File → Open.
+3. Duplicate the original layer using Ctrl + J.
+4. Use the Crop Tool to remove unwanted areas.
+5. Adjust brightness and contrast to improve the image.
+6. Use Color Balance to correct the colours if required.
+7. Use the Spot Healing Brush Tool to remove small unwanted spots.
+8. Compare the edited image with the original image.
+9. Save the editable file in PSD format.
+10. Export the final edited image as a JPG.
+
+---
